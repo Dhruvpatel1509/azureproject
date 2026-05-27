@@ -1,0 +1,15 @@
+{
+	"name": "dhruv-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aab63cdc-dd71-4d82-9fd9-66607cc6719f",
+		"tenantId": "fba84915-10c6-4d0d-9fbd-390491e16cc0"
+	}
+}
