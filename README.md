@@ -1,7 +1,7 @@
 
 # Azure and Databricks End-to-End Project (Spotify Dataset)
 
-![Architecture Diagram]
+## Architecture Diagram
 <img width="1536" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/8a02f354-1aff-45ea-88fa-f8cfcdd82426" />
 
 
