@@ -106,6 +106,8 @@ spotify_dab/
 
 **Git integration** — all ADF pipelines are version controlled in GitHub. The `main` branch holds source JSON. The `adf_publish` branch holds ARM templates for DevOps deployment.
 
+**(Here is WebAlerts I have atteched the success and fail node output both in real production it's just fail node to get the correct information)**
+
 <img width="1104" height="363" alt="Screenshot 2026-05-29 150802" src="https://github.com/user-attachments/assets/c987e180-848f-49a5-a791-18532f69993d" /> 
 <img width="1162" height="493" alt="image" src="https://github.com/user-attachments/assets/cb3e55c3-4b33-4ceb-b8e5-85e850b25b82" />
 <img width="1176" height="636" alt="Screenshot 2026-05-29 150848" src="https://github.com/user-attachments/assets/6a213d43-8233-4cae-a229-e1f757ee8c0f" />
